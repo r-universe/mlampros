@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "fastGLCM",
+    "oncran": true
+  },
+  {
     "package": "fastText",
     "oncran": true
   },

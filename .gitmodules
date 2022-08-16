@@ -18,6 +18,11 @@
 	url = https://github.com/mlampros/elmnnrcpp
 	shallow = true
 	registered = true
+[submodule "fastGLCM"]
+	path = fastGLCM
+	url = https://github.com/mlampros/fastglcm
+	shallow = true
+	registered = true
 [submodule "fastText"]
 	path = fastText
 	url = https://github.com/mlampros/fasttext
