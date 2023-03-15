@@ -3,74 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "ClusterR"]
-	path = ClusterR
-	url = https://github.com/mlampros/clusterr
-	shallow = true
-	registered = true
-[submodule "CopernicusDEM"]
-	path = CopernicusDEM
-	url = https://github.com/mlampros/copernicusdem
-	shallow = true
-	registered = true
-[submodule "elmNNRcpp"]
-	path = elmNNRcpp
-	url = https://github.com/mlampros/elmnnrcpp
-	shallow = true
-	registered = true
-[submodule "fastGLCM"]
-	path = fastGLCM
-	url = https://github.com/mlampros/fastglcm
-	shallow = true
-	registered = true
-[submodule "fastText"]
-	path = fastText
-	url = https://github.com/mlampros/fasttext
-	shallow = true
-	registered = true
-[submodule "fitbitViz"]
-	path = fitbitViz
-	url = https://github.com/mlampros/fitbitviz
-	shallow = true
-	registered = true
-[submodule "fuzzywuzzyR"]
-	path = fuzzywuzzyR
-	url = https://github.com/mlampros/fuzzywuzzyr
-	shallow = true
-	registered = true
-[submodule "geojsonR"]
-	path = geojsonR
-	url = https://github.com/mlampros/geojsonr
-	shallow = true
-	registered = true
-[submodule "GeoMongo"]
-	path = GeoMongo
-	url = https://github.com/mlampros/geomongo
-	shallow = true
-	registered = true
-[submodule "IceSat2R"]
-	path = IceSat2R
-	url = https://github.com/mlampros/icesat2r
-	shallow = true
-	registered = true
 [submodule "KernelKnn"]
 	path = KernelKnn
 	url = https://github.com/mlampros/kernelknn
-	shallow = true
-	registered = true
-[submodule "nmslibR"]
-	path = nmslibR
-	url = https://github.com/mlampros/nmslibr
-	shallow = true
-	registered = true
-[submodule "OpenImageR"]
-	path = OpenImageR
-	url = https://github.com/mlampros/openimager
-	shallow = true
-	registered = true
-[submodule "PlanetNICFI"]
-	path = PlanetNICFI
-	url = https://github.com/mlampros/planetnicfi
 	shallow = true
 	registered = true
 [submodule "SuperpixelImageSegmentation"]
@@ -78,13 +13,78 @@
 	url = https://github.com/mlampros/superpixelimagesegmentation
 	shallow = true
 	registered = true
+[submodule "fuzzywuzzyR"]
+	path = fuzzywuzzyR
+	url = https://github.com/mlampros/fuzzywuzzyr
+	shallow = true
+	registered = true
+[submodule "nmslibR"]
+	path = nmslibR
+	url = https://github.com/mlampros/nmslibr
+	shallow = true
+	registered = true
+[submodule "CopernicusDEM"]
+	path = CopernicusDEM
+	url = https://github.com/mlampros/copernicusdem
+	shallow = true
+	registered = true
+[submodule "fastText"]
+	path = fastText
+	url = https://github.com/mlampros/fasttext
+	shallow = true
+	registered = true
+[submodule "fastGLCM"]
+	path = fastGLCM
+	url = https://github.com/mlampros/fastglcm
+	shallow = true
+	registered = true
+[submodule "OpenImageR"]
+	path = OpenImageR
+	url = https://github.com/mlampros/openimager
+	shallow = true
+	registered = true
+[submodule "IceSat2R"]
+	path = IceSat2R
+	url = https://github.com/mlampros/icesat2r
+	shallow = true
+	registered = true
+[submodule "geojsonR"]
+	path = geojsonR
+	url = https://github.com/mlampros/geojsonr
+	shallow = true
+	registered = true
 [submodule "textTinyR"]
 	path = textTinyR
 	url = https://github.com/mlampros/texttinyr
 	shallow = true
 	registered = true
+[submodule "PlanetNICFI"]
+	path = PlanetNICFI
+	url = https://github.com/mlampros/planetnicfi
+	shallow = true
+	registered = true
+[submodule "ClusterR"]
+	path = ClusterR
+	url = https://github.com/mlampros/clusterr
+	shallow = true
+	registered = true
+[submodule "elmNNRcpp"]
+	path = elmNNRcpp
+	url = https://github.com/mlampros/elmnnrcpp
+	shallow = true
+	registered = true
 [submodule "VMDecomp"]
 	path = VMDecomp
 	url = https://github.com/mlampros/vmdecomp
+	shallow = true
+	registered = true
+[submodule "GeoMongo"]
+	path = GeoMongo
+	url = https://github.com/mlampros/geomongo
+	shallow = true
+	registered = true
+[submodule "fitbitViz"]
+	path = fitbitViz
+	url = https://github.com/mlampros/fitbitviz
 	shallow = true
 	registered = true

@@ -1,58 +1,6 @@
 [
   {
-    "package": "ClusterR",
-    "oncran": true
-  },
-  {
-    "package": "CopernicusDEM",
-    "oncran": true
-  },
-  {
-    "package": "elmNNRcpp",
-    "oncran": true
-  },
-  {
-    "package": "fastGLCM",
-    "oncran": true
-  },
-  {
-    "package": "fastText",
-    "oncran": true
-  },
-  {
-    "package": "fitbitViz",
-    "oncran": true
-  },
-  {
-    "package": "fuzzywuzzyR",
-    "oncran": true
-  },
-  {
-    "package": "geojsonR",
-    "oncran": true
-  },
-  {
-    "package": "GeoMongo",
-    "oncran": true
-  },
-  {
-    "package": "IceSat2R",
-    "oncran": true
-  },
-  {
     "package": "KernelKnn",
-    "oncran": true
-  },
-  {
-    "package": "nmslibR",
-    "oncran": true
-  },
-  {
-    "package": "OpenImageR",
-    "oncran": true
-  },
-  {
-    "package": "PlanetNICFI",
     "oncran": true
   },
   {
@@ -60,11 +8,63 @@
     "oncran": true
   },
   {
+    "package": "fuzzywuzzyR",
+    "oncran": true
+  },
+  {
+    "package": "nmslibR",
+    "oncran": true
+  },
+  {
+    "package": "CopernicusDEM",
+    "oncran": true
+  },
+  {
+    "package": "fastText",
+    "oncran": true
+  },
+  {
+    "package": "fastGLCM",
+    "oncran": true
+  },
+  {
+    "package": "OpenImageR",
+    "oncran": true
+  },
+  {
+    "package": "IceSat2R",
+    "oncran": true
+  },
+  {
+    "package": "geojsonR",
+    "oncran": true
+  },
+  {
     "package": "textTinyR",
     "oncran": true
   },
   {
+    "package": "PlanetNICFI",
+    "oncran": true
+  },
+  {
+    "package": "ClusterR",
+    "oncran": true
+  },
+  {
+    "package": "elmNNRcpp",
+    "oncran": true
+  },
+  {
     "package": "VMDecomp",
+    "oncran": true
+  },
+  {
+    "package": "GeoMongo",
+    "oncran": true
+  },
+  {
+    "package": "fitbitViz",
     "oncran": true
   }
 ]
