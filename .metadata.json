@@ -1,18 +1,6 @@
 [
   {
-    "package": "KernelKnn",
-    "oncran": true
-  },
-  {
-    "package": "SuperpixelImageSegmentation",
-    "oncran": true
-  },
-  {
-    "package": "fuzzywuzzyR",
-    "oncran": true
-  },
-  {
-    "package": "nmslibR",
+    "package": "ClusterR",
     "oncran": true
   },
   {
@@ -20,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "fastText",
+    "package": "elmNNRcpp",
     "oncran": true
   },
   {
@@ -28,11 +16,15 @@
     "oncran": true
   },
   {
-    "package": "OpenImageR",
+    "package": "fastText",
     "oncran": true
   },
   {
-    "package": "IceSat2R",
+    "package": "fitbitViz",
+    "oncran": true
+  },
+  {
+    "package": "fuzzywuzzyR",
     "oncran": true
   },
   {
@@ -40,7 +32,23 @@
     "oncran": true
   },
   {
-    "package": "textTinyR",
+    "package": "GeoMongo",
+    "oncran": true
+  },
+  {
+    "package": "IceSat2R",
+    "oncran": true
+  },
+  {
+    "package": "KernelKnn",
+    "oncran": true
+  },
+  {
+    "package": "nmslibR",
+    "oncran": true
+  },
+  {
+    "package": "OpenImageR",
     "oncran": true
   },
   {
@@ -48,23 +56,15 @@
     "oncran": true
   },
   {
-    "package": "ClusterR",
+    "package": "SuperpixelImageSegmentation",
     "oncran": true
   },
   {
-    "package": "elmNNRcpp",
+    "package": "textTinyR",
     "oncran": true
   },
   {
     "package": "VMDecomp",
-    "oncran": true
-  },
-  {
-    "package": "GeoMongo",
-    "oncran": true
-  },
-  {
-    "package": "fitbitViz",
     "oncran": true
   }
 ]
