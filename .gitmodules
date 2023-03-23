@@ -73,6 +73,11 @@
 	url = https://github.com/mlampros/planetnicfi
 	shallow = true
 	registered = true
+[submodule "RGF"]
+	path = RGF
+	url = https://github.com/cran/RGF
+	shallow = true
+	registered = true
 [submodule "SuperpixelImageSegmentation"]
 	path = SuperpixelImageSegmentation
 	url = https://github.com/mlampros/superpixelimagesegmentation
