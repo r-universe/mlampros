@@ -8,6 +8,30 @@
 [submodule "CopernicusDEM"]
 	path = CopernicusDEM
 	url = https://github.com/mlampros/copernicusdem
+[submodule "GeoMongo"]
+	path = GeoMongo
+	url = https://github.com/mlampros/geomongo
+[submodule "IceSat2R"]
+	path = IceSat2R
+	url = https://github.com/mlampros/icesat2r
+[submodule "KernelKnn"]
+	path = KernelKnn
+	url = https://github.com/mlampros/kernelknn
+[submodule "OpenImageR"]
+	path = OpenImageR
+	url = https://github.com/mlampros/openimager
+[submodule "PlanetNICFI"]
+	path = PlanetNICFI
+	url = https://github.com/mlampros/planetnicfi
+[submodule "RGF"]
+	path = RGF
+	url = https://github.com/cran/RGF
+[submodule "SuperpixelImageSegmentation"]
+	path = SuperpixelImageSegmentation
+	url = https://github.com/mlampros/superpixelimagesegmentation
+[submodule "VMDecomp"]
+	path = VMDecomp
+	url = https://github.com/mlampros/vmdecomp
 [submodule "elmNNRcpp"]
 	path = elmNNRcpp
 	url = https://github.com/mlampros/elmnnrcpp
@@ -26,33 +50,9 @@
 [submodule "geojsonR"]
 	path = geojsonR
 	url = https://github.com/mlampros/geojsonr
-[submodule "GeoMongo"]
-	path = GeoMongo
-	url = https://github.com/mlampros/geomongo
-[submodule "IceSat2R"]
-	path = IceSat2R
-	url = https://github.com/mlampros/icesat2r
-[submodule "KernelKnn"]
-	path = KernelKnn
-	url = https://github.com/mlampros/kernelknn
 [submodule "nmslibR"]
 	path = nmslibR
 	url = https://github.com/mlampros/nmslibr
-[submodule "OpenImageR"]
-	path = OpenImageR
-	url = https://github.com/mlampros/openimager
-[submodule "PlanetNICFI"]
-	path = PlanetNICFI
-	url = https://github.com/mlampros/planetnicfi
-[submodule "RGF"]
-	path = RGF
-	url = https://github.com/cran/RGF
-[submodule "SuperpixelImageSegmentation"]
-	path = SuperpixelImageSegmentation
-	url = https://github.com/mlampros/superpixelimagesegmentation
 [submodule "textTinyR"]
 	path = textTinyR
 	url = https://github.com/mlampros/texttinyr
-[submodule "VMDecomp"]
-	path = VMDecomp
-	url = https://github.com/mlampros/vmdecomp
